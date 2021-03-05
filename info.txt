@@ -1,4 +1,4 @@
 name = BFG
 author = Nautilus R&D
-description = Plasma weapon that blasts large holes in most materials
+description = Plasma weapon that blasts large holes in most materials.
 tags = Tool
